@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\casviana\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\casviana\\.nuget\\packages"
+    ]
+  }
+}
