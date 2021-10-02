@@ -5980,27 +5980,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\casviana\\.nuget\\packages\\": {}
+    "/home/carlos/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\csharp\\PlatformService\\PlatformService.csproj",
+      "projectUniqueName": "/mnt/wsl/Dev/platformapi/PlatformService.csproj",
       "projectName": "PlatformService",
-      "projectPath": "C:\\csharp\\PlatformService\\PlatformService.csproj",
-      "packagesPath": "C:\\Users\\casviana\\.nuget\\packages\\",
-      "outputPath": "C:\\csharp\\PlatformService\\obj\\",
+      "projectPath": "/mnt/wsl/Dev/platformapi/PlatformService.csproj",
+      "packagesPath": "/home/carlos/.nuget/packages/",
+      "outputPath": "/mnt/wsl/Dev/platformapi/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\casviana\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/carlos/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "http://192.168.0.98/NugetServerMercadoCar/nuget": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -6058,7 +6055,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
       }
     }
   }

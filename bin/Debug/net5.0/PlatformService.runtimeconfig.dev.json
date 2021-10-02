@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\casviana\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\casviana\\.nuget\\packages"
+      "/home/carlos/.dotnet/store/|arch|/|tfm|",
+      "/home/carlos/.nuget/packages"
     ]
   }
 }
